@@ -12,14 +12,6 @@ The Weather App is a responsive web application built with React.js that allows 
 - **Error Handling**: Provides user-friendly error messages for invalid city names or network issues.
 - **Responsive Design**: Ensures a seamless experience across different devices, including desktops, tablets, and smartphones.
 
-## Installation
-
-### Clone the repository:
-
-```sh
-git clone https://github.com/TusharKesarwani/weather-app.git
-```
-
 ### Navigate to the project directory:
 
 ```sh
