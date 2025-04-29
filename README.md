@@ -68,6 +68,3 @@ The app will run at http://localhost:3000.
 - **Styling**: CSS Modules or styled-components
 - **Material-UI**: Used for the search bar component
 
-## Credits
-
-This project was created by [Tushar Kesarwani](https://github.com/TusharKesarwani) to provide users with a simple and effective way to access weather information.
